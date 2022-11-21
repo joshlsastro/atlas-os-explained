@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg116"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="Priority_Queue.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview118"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.41799165"
+     inkscape:cx="521.54152"
+     inkscape:cy="490.44042"
+     inkscape:window-width="1317"
+     inkscape:window-height="772"
+     inkscape:window-x="34"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs113">
+    <rect
+       x="471.30128"
+       y="581.35133"
+       width="198.56856"
+       height="81.341338"
+       id="rect4399" />
+    <rect
+       x="471.30128"
+       y="205.74574"
+       width="229.66966"
+       height="107.65765"
+       id="rect4089" />
+    <rect
+       x="346.89688"
+       y="1002.4124"
+       width="239.23923"
+       height="110.05004"
+       id="rect2248" />
+    <rect
+       x="74.164161"
+       y="93.303299"
+       width="186.6066"
+       height="69.379376"
+       id="rect1679" />
+    <rect
+       x="74.164162"
+       y="93.303299"
+       width="162.68268"
+       height="71.771771"
+       id="rect1679-4" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#00ffff;stroke:#000000;stroke-width:1.25"
+       id="rect112"
+       width="19.622601"
+       height="19.622601"
+       x="55.702869"
+       y="24.053509" />
+    <rect
+       style="fill:#00ffff;stroke:#000000;stroke-width:1.25"
+       id="rect112-3"
+       width="19.622601"
+       height="19.622601"
+       x="99.695473"
+       y="53.487415" />
+    <rect
+       style="fill:#00ffff;stroke:#000000;stroke-width:1.25"
+       id="rect112-3-6"
+       width="19.622601"
+       height="19.622601"
+       x="56.652348"
+       y="90.200668" />
+    <rect
+       style="fill:#00ffff;stroke:#000000;stroke-width:1.25"
+       id="rect112-3-6-6"
+       width="19.622601"
+       height="19.622601"
+       x="56.652351"
+       y="112.9882" />
+    <rect
+       style="fill:#00ffff;stroke:#000000;stroke-width:1.25"
+       id="rect112-3-6-9"
+       width="19.622601"
+       height="19.622601"
+       x="56.652348"
+       y="136.40872" />
+    <rect
+       style="fill:#00ffff;stroke:#000000;stroke-width:1.25"
+       id="rect112-3-6-9-2"
+       width="19.622601"
+       height="19.622601"
+       x="58.551308"
+       y="264.27213" />
+    <rect
+       style="fill:#808080;stroke:#000000;stroke-width:1.25"
+       id="rect112-5"
+       width="19.622601"
+       height="19.622601"
+       x="144.63756"
+       y="23.104031" />
+    <rect
+       style="fill:#808080;stroke:#000000;stroke-width:1.25"
+       id="rect112-5-7"
+       width="19.622601"
+       height="19.622601"
+       x="100.96145"
+       y="150.33444" />
+    <rect
+       style="fill:#808080;stroke:#000000;stroke-width:1.25"
+       id="rect112-5-4"
+       width="19.622601"
+       height="19.622601"
+       x="57.285336"
+       y="186.41472" />
+    <rect
+       style="fill:#808080;stroke:#000000;stroke-width:1.25"
+       id="rect112-5-47"
+       width="19.622601"
+       height="19.622601"
+       x="57.285339"
+       y="209.83522" />
+    <rect
+       style="fill:#808080;stroke:#000000;stroke-width:1.25"
+       id="rect112-5-3"
+       width="19.622601"
+       height="19.622601"
+       x="57.285339"
+       y="233.25575" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,3.1649357,-1.8989614)"
+       id="text1677"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1679);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="74.164062"
+         y="112.76575"
+         id="tspan1779">Application </tspan><tspan
+         x="74.164062"
+         y="139.43238"
+         id="tspan1781">Program</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,86.329501,-2.684988)"
+       id="text1677-5"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1679-4);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="74.164062"
+         y="112.76575"
+         id="tspan1783">Supervisor </tspan><tspan
+         x="74.164062"
+         y="139.43238"
+         id="tspan1785">Mini-Program</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-dasharray:none;fill-opacity:0"
+       id="path2132"
+       cx="68.046112"
+       cy="274.04562"
+       rx="18.177197"
+       ry="17.898506" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.2659743,-5.063897)"
+       id="text2246"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2248);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="346.89648"
+         y="1021.8751"
+         id="tspan1787">This program is </tspan><tspan
+         x="346.89648"
+         y="1048.5418"
+         id="tspan1789">running; when it </tspan><tspan
+         x="346.89648"
+         y="1075.2084"
+         id="tspan1791">stops, the next </tspan><tspan
+         x="346.89648"
+         y="1101.875"
+         id="tspan1793">program in line runs.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 99.378976,62.665723 c -24.686495,3.164936 -33.548315,24.6865 -33.548315,24.6865"
+       id="path4007"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:"
+       d="m 100.00815,159.06345 c -24.686499,3.16493 -32.915332,21.52156 -32.915332,21.52156"
+       id="path4007-0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.1649357,-2.5319485)"
+       id="text4087"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4089);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="471.30078"
+         y="225.20911"
+         id="tspan1795">As new applications </tspan><tspan
+         x="471.30078"
+         y="251.87574"
+         id="tspan1797">request to run, they </tspan><tspan
+         x="471.30078"
+         y="278.54236"
+         id="tspan1799">go to the back of the </tspan><tspan
+         x="471.30078"
+         y="305.20899"
+         id="tspan1801">line.</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.8989614,-3.1649356)"
+       id="text4397"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4399);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="471.30078"
+         y="600.81458"
+         id="tspan1803">Supervisor Mini-</tspan><tspan
+         x="471.30078"
+         y="627.4812"
+         id="tspan1805">Programs get to </tspan><tspan
+         x="471.30078"
+         y="654.14783"
+         id="tspan1807">&quot;cut&quot; in line.</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:0;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1.25;stroke-dasharray:none"
+       id="path7577"
+       inkscape:flatsided="true"
+       sodipodi:sides="5"
+       sodipodi:cx="113.93768"
+       sodipodi:cy="102.54391"
+       sodipodi:r1="35.807156"
+       sodipodi:r2="28.968597"
+       sodipodi:arg1="1.4288993"
+       sodipodi:arg2="2.0572178"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 119.00158,137.99118 -37.21143,-19.67741 7.21537,-41.470828 41.67077,-5.952966 18.53859,37.791694 z"
+       inkscape:transform-center-x="-1.5648288"
+       inkscape:transform-center-y="1.8966706" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 62.665724,79.756377 3.164935,8.228833 6.329873,-6.329871"
+       id="path8444" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 64.318892,173.30615 3.164935,8.22883 6.329873,-6.32987"
+       id="path8444-9" />
+  </g>
+</svg>
